@@ -172,11 +172,11 @@ Analiza objęła wszystkie 16 plików w `parts/`. Poniżej błędy pogrupowane w
 - 03-01.md: cudzysłów prosty `"..."` zamiast polskiego `„...”`.
 - Cała praca: niespójna kolejność kropka/przypis (raz kropka przed [^n], raz po).
 
-## 4. Spacje i zapis liczb / jednostek
+## 4. ✅ Spacje i zapis liczb / jednostek — POPRAWIONE
 - 01-03.md: "5.9%" → "5,9%" (kropka zamiast przecinka dziesiętnego).
-- 02-02.md: "1--3 %" vs "35%" — niespójna spacja przed znakiem %.
-- 02-03.md: "970GWh", "2TWh" → brak spacji przed jednostką.
-- 03-04.md: "~99%" vs "100%" w tej samej tabeli — niespójny zapis przybliżenia.
+- 02-02.md: "1--3 %" vs "35%" → ujednolicono do "1--3%" i "6--9%" (bez spacji przed %, zgodnie z resztą dokumentu).
+- 02-03.md: "970GWh", "2TWh" → "970 GWh", "2 TWh" (dodano spację przed jednostką).
+- 03-04.md: "~99%" vs "100%" w tabeli — **bez zmian**: to nie błąd zapisu, tylko dwie różne wartości dla dwóch różnych scenariuszy (EnerBlue ~99% vs EnerGreen 100% w 2035 r.), zostawione jak w oryginale.
 
 ## 5. Braki wyrazów (pominięty zaimek/przyimek/spójnik)
 - 01-01.md: "Państwa we swoich NDC" → "w swoich NDC" (nadmiarowe "we", ale też przykład błędnego przyimka).
