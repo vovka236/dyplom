@@ -146,7 +146,7 @@ Analiza objęła wszystkie 16 plików w `parts/`. Poniżej błędy pogrupowane w
 
 # Te same błędy pogrupowane wg charakteru
 
-## 1. Błędy ortograficzne / literówki (błędna lub pominięta litera)
+## 1. ✅ Błędy ortograficzne / literówki (błędna lub pominięta litera) — POPRAWIONE
 - 00-wstep.md: „krytycznej" zapisane jako „krytycznej[sz]ej" → "poddane krytyczniej ocenie" zamiast "krytycznej".
 - 01-01.md: "gospodarzą" → "gospodarczą" (transformację gospodarczą).
 - 01-02.md: "E-mobliność" → "E-mobilność" (w przypisie).
