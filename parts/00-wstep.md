@@ -2,9 +2,9 @@
 
 Współczesny sektor motoryzacyjny stoi przed koniecznością fundamentalnej transformacji w kierunku zrównoważonej mobilności. Progresywne zmiany klimatu i degradacja środowiska, do których istotnie przyczynia się branża automotive wraz z negatywnymi skutkami, zainicjowały strategię przeciwdziałania na arenie międzynarodowej. Rozwiązania w zakresie elektromobilności są ważnym etapem na drodze jakościowych przemian. W efekcie Unia Europejska i czołowe organizacje światowe połączyły swoje siły i wyznaczyły ambitne cele, w tym ograniczenie emisji gazów cieplarnianych. Już dziś widać dynamiczny wzrost rynku pojazdów elektrycznych. Niemniej jednak rozwój zrównoważonej mobilności jest nie tylko kwestią techniczną. Ale również procesem społeczno-ekonomicznym, który wymaga zrozumienia preferencji i uwarunkowań decyzyjnych różnych grup interesariuszy.
 
-W swojej pracy analizuję jak regulacje instytucjonalne, bodźce ekonomiczne oraz czynniki społeczne wpływają na tempo adaptacji elektromobilności w UE w ostatniej dekadzie. Wybór tego tematu jest uzasadniony aktualnością problematyki implementacji koncepcji w celu osiągnięcia stabilności klimatycznej, poprawy jakości życia oraz unowocześnienia przemysłu. Badania tematu pozwoli klarowniej zrozumieć bariery i szanse związane z tą transformacją. Zgodnie z tematem pracy zdefiniowano następujące hipotezy badawcze:
+W swojej pracy analizuję, jak regulacje instytucjonalne, bodźce ekonomiczne oraz czynniki społeczne wpływają na tempo adaptacji elektromobilności w UE w ostatniej dekadzie. Wybór tego tematu jest uzasadniony aktualnością problematyki implementacji koncepcji w celu osiągnięcia stabilności klimatycznej, poprawy jakości życia oraz unowocześnienia przemysłu. Badania tematu pozwoli klarowniej zrozumieć bariery i szanse związane z tą transformacją. Zgodnie z tematem pracy zdefiniowano następujące hipotezy badawcze:
 
-1\. Publiczne wsparcie finansowe i regulacyjne (m.in. dopłaty, ulgi podatkowe, normy emisyjne) mają istotny wpływ na tempo rozwoju elektromobilności w społeczeństwie
+1\. Publiczne wsparcie finansowe i regulacyjne (m.in. dopłaty, ulgi podatkowe, normy emisyjne) mają istotny wpływ na tempo rozwoju elektromobilności w społeczeństwie.
 
 2\. Wysoki koszt zakupu EV oraz niedostatecznie rozwinięta infrastruktura ładowania to główne bariery, które mogą osłabiać entuzjazm nabywców.
 

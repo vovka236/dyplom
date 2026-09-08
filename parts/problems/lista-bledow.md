@@ -165,12 +165,13 @@ Analiza objęła wszystkie 16 plików w `parts/`. Poniżej błędy pogrupowane w
 - 02-02.md: "prywatne punktów ładowania... jest" → niezgodność fleksji; "za pomocy" → "za pomocą".
 - 03-03.md: niespójność trybu "będą zmuszone... lub ryzykują".
 
-## 3. Błędy interpunkcyjne (przecinki, cudzysłowy, myślniki, znaczniki)
-- 00-wstep.md: brak przecinka "analizuję jak regulacje" → "analizuję, jak"; niekonsekwentne kropki w wyliczeniu hipotez; myślnik "--" zamiast pauzy.
-- 01-01.md: "[^22]^.^" — zbędne znaczniki formatowania po przypisie.
-- 01-02.md: zlanie dwóch zdań bez kropki/przecinka ("...z transportu drogowego Redukcja emisji...").
-- 03-01.md: cudzysłów prosty `"..."` zamiast polskiego `„...”`.
-- Cała praca: niespójna kolejność kropka/przypis (raz kropka przed [^n], raz po).
+## 3. ✅ Błędy interpunkcyjne (przecinki, cudzysłowy, myślniki, znaczniki) — POPRAWIONE
+- 00-wstep.md: brak przecinka "analizuję jak regulacje" → "analizuję, jak"; niekonsekwentne kropki w wyliczeniu hipotez → dodano kropkę na końcu punktu 1.
+- 01-01.md: "regresu.[^22]^.^" → "regresu[^22]." (usunięto zbędny znacznik pandocowego formatowania, przypis przeniesiony przed kropkę kończącą zdanie).
+- 01-02.md: zlanie dwóch zdań → "...z transportu drogowego. Redukcja emisji..." (dodano kropkę i wielką literę).
+- 03-01.md: cudzysłów prosty `"..."` → poprawny polski `„...”` w „elektromobilnością dla bogatszych”.
+- 00-wstep.md, myślnik "--": **bez zmian** — to nie błąd, tylko standardowy zapis pauzy/en-dash w formacie markdown wygenerowanym przez pandoc (przy konwersji z powrotem do .docx "--" wróci do właściwego znaku „–"); zmiana ręczna zepsułaby konwersję.
+- Niespójna kolejność kropka/przypis w całej pracy: **do zrobienia osobno** — to się przewija przez wszystkie rozdziały, potraktuję to jako oddzielny przebieg techniczny (ujednolicenie), a nie punktowe poprawki, żeby nie robić tego dwa razy.
 
 ## 4. ✅ Spacje i zapis liczb / jednostek — POPRAWIONE
 - 01-03.md: "5.9%" → "5,9%" (kropka zamiast przecinka dziesiętnego).
