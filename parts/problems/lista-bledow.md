@@ -157,13 +157,13 @@ Analiza objęła wszystkie 16 plików w `parts/`. Poniżej błędy pogrupowane w
 - 03-01.md: "Zjednocznonych" → "Zjednoczonych".
 - 03-04.md: "chinskiej" → "chińskiej" (brak "ń").
 
-## 2. Błędy fleksji / odmiany (zły przypadek, liczba, rodzaj, stopień)
-- 00-wstep.md: "dokumentach strategicznych" → "dokumentów strategicznych"; "role czynników" → "rolę czynników"; "między innym" → "między innymi"; "byli dorobki" → "był dorobek"; "Badania... pozwoli" → niezgodność liczby.
-- 04-zakonczenie.md: "w liczbach takich aut" → "w liczbie"; "odchodzenia... wiążę się" → "odchodzenie... wiąże się"; "Udoskonalenia... tworzy" → niezgodność liczby; "nowe kompetencję" → "kompetencje"; "Ważnym... jest integracja" → "Ważna... jest"; "zbliżenia się" → "zbliżenie się".
+## 2. ✅ Błędy fleksji / odmiany (zły przypadek, liczba, rodzaj, stopień) — POPRAWIONE
+- 00-wstep.md: "dokumentach strategicznych" → "dokumentów strategicznych"; "role czynników" → "rolę czynników"; "między innym... byli dorobki" → "między innymi... był dorobek"; "Badania tematu pozwoli" → "Badanie tematu pozwoli" (ujednolicono liczbę pojedynczą).
+- 04-zakonczenie.md: "w liczbach takich aut" → "w liczbie"; "odchodzenia... wiążę się" → "odchodzenie... wiąże się"; "Udoskonalenia... tworzy" → "tworzą"; "nowe kompetencję" → "kompetencje"; "Ważnym... jest integracja" → "Ważna... jest integracja"; "zbliżenia się" → "zbliżenie się".
 - 01-01.md: "z długookresowy celami" → "długookresowymi"; "zagrożenie życia" → "zagrożenia dla życia"; "realizacje... za pomocy" → "realizację... za pomocą"; "Unia Europejską" → "Unia Europejska"; "stanowili odpowiedź" → "stanowiły"; "polityki wspierających" → "wspierającej".
-- 01-03.md: "zdobyły uznania" → "uznanie"; "ograniczenia pojemność" → "ograniczona pojemność"; "kwestię społeczne" → "kwestie społeczne".
-- 02-02.md: "prywatne punktów ładowania... jest" → niezgodność fleksji; "za pomocy" → "za pomocą".
-- 03-03.md: niespójność trybu "będą zmuszone... lub ryzykują".
+- 01-03.md: "zdobyły uznania" → "zdobyły uznanie"; "ograniczenia pojemność" → "ograniczona pojemność"; "kwestię społeczne" → "kwestie społeczne".
+- 02-02.md: "prywatne punktów ładowania... jest pierwszym etapem" → "prywatne punkty ładowania... są pierwszym etapem"; "za pomocy" → "za pomocą".
+- 03-03.md: "będą zmuszone... lub ryzykują" → "będą zmuszone... albo zaryzykują" (ujednolicono aspekt/tryb czasowników).
 
 ## 3. ✅ Błędy interpunkcyjne (przecinki, cudzysłowy, myślniki, znaczniki) — POPRAWIONE
 - 00-wstep.md: brak przecinka "analizuję jak regulacje" → "analizuję, jak"; niekonsekwentne kropki w wyliczeniu hipotez → dodano kropkę na końcu punktu 1.
