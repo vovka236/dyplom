@@ -185,7 +185,7 @@ Analiza objęła wszystkie 16 plików w `parts/`. Poniżej błędy pogrupowane w
 - 02-01.md: "podjął decyzję ponowić program" → "podjął decyzję o ponowieniu programu" (brak "o"); "strefy... uznawane jako zasadniczy instrument" → "strefy... uznawane są za zasadniczy instrument" (brak "są", "jako"→"za").
 - 02-02.md: "V2G może zapełniać zasilanie" → "V2G może zapewniać zasilanie" (pomyłka leksykalna, nie literalny brak wyrazu, ale ujęta w tej grupie na liście wejściowej).
 
-## 6. Błędy rekcji (zła składnia czasownik + przyimek/przypadek)
+## 6. ✅ Błędy rekcji (zła składnia czasownik + przyimek/przypadek) — POPRAWIONE
 - 01-03.md: "skutkowało upowszechnienie" → "skutkowało upowszechnieniem"; "nie ogranicza się definicją" → "nie ogranicza się do definicji".
 - 03-02.md: "odgrywa istotną część" → "odgrywa istotną rolę".
 
@@ -201,15 +201,24 @@ Analiza objęła wszystkie 16 plików w `parts/`. Poniżej błędy pogrupowane w
 - 03-03.md: "W tym około 200 000..." jako osobne zdanie po kropce.
 - Cała praca: ogólna cecha stylu wynikająca prawdopodobnie z myślenia w innym języku.
 
-## 8. Niespójności merytoryczne i redakcyjne (do weryfikacji ze źródłem/całością)
-- 04-zakonczenie.md: niespójność rodzaju gramatycznego autorki ("zakładałam") względem reszty pracy — do sprawdzenia globalnie.
-- 01-03.md: "w HEV" w akapicie dotyczącym PHEV — błąd terminologiczny.
-- 02-02.md / 02-03.md: rozjechana numeracja "Rysunek 2" (występuje kilkukrotnie z różną treścią).
-- 02-03.md: zdublowany cały akapit o recyklingu akumulatorów.
-- 03-01.md: pusty przypis [^102]; pozostałości `{.mark}` z edytora.
-- 03-02.md: tytuł obcojęzyczny wklejony bez kursywy/odmiany ("Raport... Europe's wskazuje"); skrót "EEA" bez rozwinięcia w tekście głównym.
-- 03-03.md: możliwa sprzeczność liczbowa (3–5% vs 2–3% zatrudnienia dla tych samych krajów).
-- 03-04.md: niespójność roku cytowanego źródła (2023 w tekście vs 2024 w przypisie); zdanie bez orzeczenia ("Coraz częściej realną częścią europejskiego rynku pojazdów.").
+## 8. ⚠️ Niespójności merytoryczne i redakcyjne — CZĘŚCIOWO POPRAWIONE (sprawdzone w oryginalnym .docx)
+
+**Poprawione:**
+- 01-03.md: "akumulatory w HEV są o większej pojemności" (w akapicie o PHEV) → "akumulatory w PHEV są o większej pojemności" — błąd terminologiczny.
+- 02-03.md: usunięto zdublowany fragment akapitu o recyklingu (zweryfikowałem w oryginalnym .docx — duplikat rzeczywiście tam jest, nie jest to artefakt konwersji). Zachowałem całą unikalną treść z obu wersji, usunąłem tylko powtórzone zdanie otwierające.
+- 02-02.md / 02-03.md / 03-03.md: przenumerowano rysunki sekwencyjnie zgodnie z ich faktyczną kolejnością w dokumencie — sprawdziłem w oryginalnym .docx, że błąd (dwa rysunki oznaczone "Rysunek 2") jest autentyczny, nie wynika z konwersji:
+  - Rysunek 2 (V2G, 02-02.md) — bez zmian
+  - "Rysunek 2" (produkcja BEV z recyklingu, 02-03.md) → **Rysunek 3**
+  - "Rysunek 3" (odpady baterii, 02-03.md) → **Rysunek 4**, wraz z odsyłaczem w tekście "Jak pokazano na Rysunku 3" → "Rysunku 4"
+  - "Rysunek 4" (zatrudnienie, 03-03.md) → **Rysunek 5**
+- 03-02.md: "Raport Europejskiej Agencji Środowiska Europe's wskazuje" → "Raport Europejskiej Agencji Środowiska (EEA) pt. *Europe's urban air quality* wskazuje" (naprawiony błędnie wklejony tytuł + dodane rozwinięcie skrótu EEA przy pierwszym użyciu w tekście głównym).
+- 03-04.md: zdanie bez orzeczenia scalone: "...stają się nie tylko alternatywą, ale coraz częściej realną częścią europejskiego rynku pojazdów."; poprawiono datę raportu Enerdata z "2023" na "2024" (zgodnie z przypisem [^112] i źródłem faktycznie cytowanym) — dotyczy też podpisu tabeli.
+
+**Wymaga Twojej decyzji — NIE poprawiłem, bo wymaga dostępu do źródła lub nie da się rozstrzygnąć mechanicznie:**
+- 03-01.md: przypis [^102] jest **pusty w oryginalnym .docx** (sprawdziłem w pliku źródłowym — to nie błąd konwersji, przypis faktycznie nie ma treści). Zdanie, którego dotyczy: "...pozwoli, aby elektromobilność nie była postrzegana jako projekt elitarny..." — potrzebna jest rzeczywista cytowana pozycja, której nie znam; nie mogę jej wymyślić.
+- 03-01.md: fragmenty `{.mark}` to pozostałość PO ZAZNACZENIU/PODŚWIETLENIU tekstu w Wordzie (nie usuwają treści, tylko formatowanie) — czy chcesz żebym usunął sam znacznik konwersji (treść zostaje), czy to podświetlenie ma jakieś znaczenie (np. do wglądu promotora) i lepiej zostawić?
+- 03-03.md: możliwa sprzeczność liczbowa — jeden akapit (przypis 108, Eurofound) podaje, że sektor motoryzacyjny stanowi **3–5%** zatrudnienia w Słowacji, Czechach, Rumunii, na Węgrzech i w Niemczech, a inny akapit (bez numeru przypisu, "Dane Eurofound (2025)") podaje **2–3%** dla Niemiec, Polski i Węgier. Mogą to być dwa różne raporty Eurofound z różną metodologią, ale nie mam jak zweryfikować bez dostępu do źródeł — zostawiłem obie liczby bez zmian.
+- 04-zakonczenie.md: sprawdziłem całą pracę pod kątem rodzaju gramatycznego pierwszoosobowego — "zakładałam" to **jedyne** miejsce w całym dokumencie z formą rodzajową (reszta używa formy neutralnej: "analizuję", "mogę założyć"), więc nie ma tu faktycznej niespójności do naprawienia — zostawione bez zmian.
 
 ## 9. Powtórzenia / redundancje stylistyczne
 - 04-zakonczenie.md: "nadal pozostają wciąż drogie" (dwa synonimy naraz).
