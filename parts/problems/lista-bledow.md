@@ -179,12 +179,11 @@ Analiza objęła wszystkie 16 plików w `parts/`. Poniżej błędy pogrupowane w
 - 02-03.md: "970GWh", "2TWh" → "970 GWh", "2 TWh" (dodano spację przed jednostką).
 - 03-04.md: "~99%" vs "100%" w tabeli — **bez zmian**: to nie błąd zapisu, tylko dwie różne wartości dla dwóch różnych scenariuszy (EnerBlue ~99% vs EnerGreen 100% w 2035 r.), zostawione jak w oryginale.
 
-## 5. Braki wyrazów (pominięty zaimek/przyimek/spójnik)
-- 01-01.md: "Państwa we swoich NDC" → "w swoich NDC" (nadmiarowe "we", ale też przykład błędnego przyimka).
-- 01-03.md: "elektromobilność wchodzą także" → brak "w": "w skład elektromobilności wchodzą"; "W 2023 w UE" → brak "r.": "W 2023 r.".
-- 01-01.md: "EST stał przełomem" → brak "się": "stał się przełomem".
-- 02-01.md: "podjął decyzję ponowić program" → brak "o": "decyzję o ponowieniu"; "strefy... uznawane jako" → brak "są".
-- 02-02.md: "V2G może zapełniać zasilanie" → błędne słowo zamiast "zapewniać" (bliskoznaczne, nie brak, ale pomyłka leksykalna).
+## 5. ✅ Braki wyrazów (pominięty zaimek/przyimek/spójnik) — POPRAWIONE
+- 01-01.md: "Państwa we swoich NDC" → "Państwa w swoich NDC" (nadmiarowe "we"); "EST stał przełomem" → "EST stał się przełomem" (brak "się").
+- 01-03.md: "elektromobilność wchodzą także" → "w skład elektromobilności wchodzą także" (brak "w skład"); "W 2023 w UE" → "W 2023 r. w UE" (brak "r.").
+- 02-01.md: "podjął decyzję ponowić program" → "podjął decyzję o ponowieniu programu" (brak "o"); "strefy... uznawane jako zasadniczy instrument" → "strefy... uznawane są za zasadniczy instrument" (brak "są", "jako"→"za").
+- 02-02.md: "V2G może zapełniać zasilanie" → "V2G może zapewniać zasilanie" (pomyłka leksykalna, nie literalny brak wyrazu, ale ujęta w tej grupie na liście wejściowej).
 
 ## 6. Błędy rekcji (zła składnia czasownik + przyimek/przypadek)
 - 01-03.md: "skutkowało upowszechnienie" → "skutkowało upowszechnieniem"; "nie ogranicza się definicją" → "nie ogranicza się do definicji".
