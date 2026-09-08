@@ -217,7 +217,11 @@ Analiza objęła wszystkie 16 plików w `parts/`. Poniżej błędy pogrupowane w
 **Wymaga Twojej decyzji — NIE poprawiłem, bo wymaga dostępu do źródła lub nie da się rozstrzygnąć mechanicznie:**
 - 03-01.md: przypis [^102] jest **pusty w oryginalnym .docx** (sprawdziłem w pliku źródłowym — to nie błąd konwersji, przypis faktycznie nie ma treści). Zdanie, którego dotyczy: "...pozwoli, aby elektromobilność nie była postrzegana jako projekt elitarny..." — potrzebna jest rzeczywista cytowana pozycja, której nie znam; nie mogę jej wymyślić.
 - 03-01.md: fragmenty `{.mark}` to pozostałość PO ZAZNACZENIU/PODŚWIETLENIU tekstu w Wordzie (nie usuwają treści, tylko formatowanie) — czy chcesz żebym usunął sam znacznik konwersji (treść zostaje), czy to podświetlenie ma jakieś znaczenie (np. do wglądu promotora) i lepiej zostawić?
-- 03-03.md: możliwa sprzeczność liczbowa — jeden akapit (przypis 108, Eurofound) podaje, że sektor motoryzacyjny stanowi **3–5%** zatrudnienia w Słowacji, Czechach, Rumunii, na Węgrzech i w Niemczech, a inny akapit (bez numeru przypisu, "Dane Eurofound (2025)") podaje **2–3%** dla Niemiec, Polski i Węgier. Mogą to być dwa różne raporty Eurofound z różną metodologią, ale nie mam jak zweryfikować bez dostępu do źródeł — zostawiłem obie liczby bez zmian.
+- ✅ 03-03.md: **rozwiązane** — zweryfikowałem bezpośrednio w źródle (Eurofound, *Employment in the EU's automotive sector – Briefing note*, 2025, Figure 1). To nie była sprzeczność, tylko dwie różne miary z tego samego raportu użyte bez rozróżnienia w tekście:
+  - sama produkcja pojazdów (NACE C29): Słowacja 5,0%, Czechy 4,4%, Rumunia 3,1%, Węgry 3,0%, Niemcy 2,6%, Polska 1,9%
+  - produkcja + sprzedaż/serwis (C29+G45): Słowacja 6,7%, Czechy 6,1%, Rumunia 5,8%, Węgry 4,9%, Niemcy 4,3%, Polska 4,0%
+
+  Poprawki w 03-03.md: akapit z przypisem [^108] doprecyzowany ("łączny udział produkcji oraz sprzedaży i serwisu... sięga 4,3–6,7%"); akapit "Dane Eurofound (2025)" doprecyzowany ("sam sektor produkcji pojazdów... od 1,9 do 3%") i uzupełniony nowym przypisem [^108a] w stylu istniejących przypisów, wskazującym na tę samą pozycję (s. 2, Figure 1).
 - 04-zakonczenie.md: sprawdziłem całą pracę pod kątem rodzaju gramatycznego pierwszoosobowego — "zakładałam" to **jedyne** miejsce w całym dokumencie z formą rodzajową (reszta używa formy neutralnej: "analizuję", "mogę założyć"), więc nie ma tu faktycznej niespójności do naprawienia — zostawione bez zmian.
 
 ## 9. Powtórzenia / redundancje stylistyczne
