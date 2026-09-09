@@ -189,17 +189,17 @@ Analiza objęła wszystkie 16 plików w `parts/`. Poniżej błędy pogrupowane w
 - 01-03.md: "skutkowało upowszechnienie" → "skutkowało upowszechnieniem"; "nie ogranicza się definicją" → "nie ogranicza się do definicji".
 - 03-02.md: "odgrywa istotną część" → "odgrywa istotną rolę".
 
-## 7. Kalki językowe / rusycyzmy, ukrainizmy / potocyzmy
-- 00-wstep.md: "branża automotive" (anglicyzm); "wyświetlono społeczną percepcję"; "poddane krytyczniej ocenie" zamiast "poddane krytycznej analizie"; zdanie od "Ale" po kropce.
-- 04-zakonczenie.md: "można zobaczyć pozytywną dynamikę"; "pod względem zaufanych źródeł"; "recycling" zamiast "recykling".
-- 01-01.md: "Jednak każda moneta ma dwie strony" (potoczny frazeologizm).
-- 01-03.md: "prawie jednocześnie toczyła się z rozwojem"; "swoją drogą".
-- 02-01.md: "był urochomiony system" (konstrukcja bierna, kalka); "Ale.../Więc..." na początku zdań.
-- 02-02.md: "przyspieszył się" (zbędne "się").
-- 02-03.md: "to wygląda tak, że".
-- 03-01.md: "pozwoli, aby elektromobilność nie była postrzegana".
-- 03-03.md: "W tym około 200 000..." jako osobne zdanie po kropce.
-- Cała praca: ogólna cecha stylu wynikająca prawdopodobnie z myślenia w innym języku.
+## 7. ✅ Kalki językowe / rusycyzmy, ukrainizmy / potocyzmy — POPRAWIONE
+- 00-wstep.md: "branża automotive" → "branża motoryzacyjna"; zdanie od "Ale" po kropce scalone ze zdaniem poprzednim (przecinkiem); "wyświetlono społeczną percepcję" → "przedstawiono społeczną percepcję".
+- 04-zakonczenie.md: "można zobaczyć pozytywną dynamikę" → "widoczna jest pozytywna dynamika"; "pod względem zaufanych źródeł" → "na podstawie wiarygodnych źródeł"; "recycling" → "recykling".
+- 01-01.md: "Jednak każda moneta ma dwie strony. Dlatego sektor transportu ujawnił..." (potoczny frazeologizm) → "Rozwój ten ma jednak także swoje negatywne strony. Sektor transportu ujawnił...".
+- 01-03.md: "prawie jednocześnie toczyła się z rozwojem" → "i przebiegała niemal równolegle z rozwojem"; "co swoją drogą skutkowało" → "co z kolei skutkowało".
+- 02-01.md: "był uruchomiony system dotacji" (konstrukcja bierna, kalka) → "uruchomiono system dotacji"; "Ale pod koniec 2023" → "Jednak pod koniec 2023"; "Więc w październiku 2025" → "Dlatego w październiku 2025".
+- 02-02.md: "przyspieszył się" (zbędne "się") → "przyspieszył".
+- 02-03.md: "to wygląda tak, że bateria nie jest kupowana razem z pojazdem, a tylko oferowana" → "polega to na tym, że bateria nie jest kupowana razem z pojazdem, lecz oferowana".
+- 03-01.md: "pozwoli, aby elektromobilność nie była postrzegana jako projekt elitarny" → "sprawi, że elektromobilność nie będzie postrzegana jako projekt elitarny".
+- 03-03.md: "W tym około 200 000..." jako osobne zdanie po kropce → scalone w jedno zdanie ("..., z czego około 200 000 będzie dotyczyć...").
+- Cała praca: ogólna cecha stylu wynikająca prawdopodobnie z myślenia w innym języku — najbardziej rażące przypadki poprawione powyżej; drobne ślady stylu mogą pozostać w tekście.
 
 ## 8. ⚠️ Niespójności merytoryczne i redakcyjne — CZĘŚCIOWO POPRAWIONE (sprawdzone w oryginalnym .docx)
 
